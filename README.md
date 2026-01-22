@@ -475,8 +475,8 @@ For local development:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/nanobanana-pro-mcp-server.git
-cd nanobanana-pro-mcp-server
+git clone https://github.com/qso/nanobanana-mcp-server.git
+cd nanobanana-mcp-server
 
 # Install with uv
 uv sync
@@ -494,5 +494,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/nanobanana-pro-mcp-server/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/nanobanana-pro-mcp-server/discussions)
+- **Issues**: [GitHub Issues](https://github.com/qso/nanobanana-mcp-server/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/qso/nanobanana-mcp-server/discussions)

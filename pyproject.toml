@@ -1,6 +1,6 @@
 [project]
 name = "nanobanana-pro-mcp-server"
-version = "1.0.0"
+version = "1.0.1"
 description = "A production-ready MCP server for AI-powered image generation using Gemini 3 Pro Image (Nano Banana Pro) and Gemini 2.5 Flash Image with intelligent model selection"
 authors = [
     { name = "qso", email = "qsolee@gmail.com" }
@@ -57,9 +57,9 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/nanobanana-pro-mcp-server"
-Repository = "https://github.com/yourusername/nanobanana-pro-mcp-server.git"
-"Bug Tracker" = "https://github.com/yourusername/nanobanana-pro-mcp-server/issues"
+Homepage = "https://github.com/qso/nanobanana-mcp-server"
+Repository = "https://github.com/qso/nanobanana-mcp-server.git"
+"Bug Tracker" = "https://github.com/qso/nanobanana-mcp-server/issues"
 
 [project.scripts]
 nanobanana-pro-mcp-server = "nanobanana_mcp_server.server:main"
